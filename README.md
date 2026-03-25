@@ -1,2 +1,2 @@
-# stepik_autotest_project
+# stepik-autotest-project
 Учебный проект со степика по автоматическому тестированию страниц интернет-магазина
